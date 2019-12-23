@@ -1,0 +1,4 @@
+a=raw_input("")
+t=a.strip()
+print t
+print type(t)
